@@ -5,6 +5,7 @@ import Home from './components/home/Home'
 import About from "./components/about/About"
 import CourseHome from "./components/allcourses/CourseHome"
 import Team from "./components/team/Team"
+import Price from "./components/pricing/Price"
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
           <Route path='/about' exact component={ About } />
           <Route path='/courses' exact component={ CourseHome } />
           <Route path='/team' exact component={ Team } />
+          <Route path='/pricing' exact component={ Price } />
         </Switch>
       </Router>
     </>
