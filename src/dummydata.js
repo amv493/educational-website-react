@@ -389,7 +389,7 @@ export const blog = [
     cover: "../images/blog/b6.webp",
   },
 ]
-export const testimonal = [
+export const testimonial = [
   {
     id: 1,
     name: "ROGER SCOTT",
