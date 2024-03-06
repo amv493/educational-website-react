@@ -6,6 +6,8 @@ import About from "./components/about/About"
 import CourseHome from "./components/allcourses/CourseHome"
 import Team from "./components/team/Team"
 import Price from "./components/pricing/Price"
+import Blog from "./components/blog/Blog"
+import Contact from "./components/contact/Contact"
 
 
 function App() {
@@ -19,6 +21,8 @@ function App() {
           <Route path='/courses' exact component={ CourseHome } />
           <Route path='/team' exact component={ Team } />
           <Route path='/pricing' exact component={ Price } />
+          <Route path='/journal' exact component={ Blog } />
+          <Route path='/contact' exact component={ Contact } />
         </Switch>
       </Router>
     </>
