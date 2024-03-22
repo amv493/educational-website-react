@@ -25,7 +25,7 @@ function App() {
           <Route path='/journal' exact component={ Blog } />
           <Route path='/contact' exact component={ Contact } />
         </Switch>
-        <Footer />
+
       </Router>
     </>
   )
