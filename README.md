@@ -44,7 +44,7 @@ Instructions to set up the project locally.
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/amv493/educational-website-react.git
+   git clone https://github.com/your-username/project-name.git
    ```
 2. Install dependencies:
    ```sh
@@ -82,9 +82,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 🪪 Contact
 
-Your Name - [@your-twitter-handle](https://twitter.com/yourhandle) - your-email@example.com
+Your Name - [@Legend_X_Ronin](https://twitter.com/legend_x_ronin) - anthony.tymckinney@gmail.com
 
-Project Link: [https://github.com/your-username/project-name](https://github.com/your-username/project-name)
+Project Link: [https://github.com/amv493/project-name](https://github.com/your-username/project-name)
 
 ## 🙏 Acknowledgements
 
